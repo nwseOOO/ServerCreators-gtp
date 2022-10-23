@@ -1,0 +1,5 @@
+name: SC-gtp
+version: 1.0
+main: pl.yspar.core.CorePlugin
+author: yspar
+depend: [BungeeTabListPlus]
